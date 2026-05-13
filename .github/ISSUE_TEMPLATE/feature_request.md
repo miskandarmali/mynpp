@@ -1,38 +1,20 @@
 ---
-name: feature_request
-about: Describe this issue template's purpose here.
-title: "[REQUIREMENT]"
+name: Feature request
+about: Suggest an idea for this project
+title: ''
 labels: ''
 assignees: ''
 
 ---
 
----
-name: Feature Request
-about: Cadangkan ciri baru atau tugasan pembangunan
-title: '[FEAT] '
-labels: enhancement
-assignees: ''
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
----
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-## 1. User Story
-**Sebagai** [role]
-**Saya mahu** [action]
-**Supaya** [benefit/outcome]
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
-## 2. Acceptance Criteria (Definisi Siap)
-*Gunakan checklist ini untuk menentukan bila tugasan ini dianggap selesai.*
-- [ ] kriteria 1
-- [ ] kriteria 2
-- [ ] kriteria 3
-
-## 3. Technical Implementation (Jika Perlu)
-- **Endpoint:** `GET/POST /api/...`
-- **Database:** Table `name`
-- **Validation:** Contoh: Email must be unique.
-
-## 4. Rujukan / Lampiran
-- [ ] Screenshot UI/UX
-- [ ] Dokumen API
-- [ ] Nota Stakeholder
+**Additional context**
+Add any other context or screenshots about the feature request here.
