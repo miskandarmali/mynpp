@@ -1,3 +1,12 @@
+---
+name: requirement
+about: Describe this issue template's purpose here.
+title: "[REQUIREMENT]"
+labels: ''
+assignees: ''
+
+---
+
 ## 📋 User Story
 **As a** [role], **I want to** [action], **so that** [benefit].
 
